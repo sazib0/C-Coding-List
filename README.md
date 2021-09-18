@@ -1,6 +1,6 @@
  <div align="center">
   
-# C programming code list
+# C Coding List
 
 ```
   
